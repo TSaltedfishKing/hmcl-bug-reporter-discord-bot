@@ -1,0 +1,1 @@
+# hmcl-bug-reporter-discord-bot
